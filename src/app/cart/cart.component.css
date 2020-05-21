@@ -1,0 +1,35 @@
+table.cart {
+  width: 100%;
+}
+
+table.cart thead th {
+  padding: 5px;
+}
+table.cart thead th.name {
+  text-align: left;
+}
+table.cart thead th.qty {
+  text-align: right;
+}
+table.cart thead th.price {
+  text-align: left;
+}
+table.cart thead th.actions {
+  text-align: left;
+}
+
+table.cart tbody td {
+  padding: 5px;
+}
+table.cart tbody td.name {
+  text-align: left;
+}
+table.cart tbody td.qty {
+  text-align: right;
+}
+table.cart tbody td.price {
+  text-align: left;
+}
+table.cart tbody td.actions {
+  text-align: left;
+}

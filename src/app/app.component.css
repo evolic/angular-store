@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+
+footer {
+  margin: 15px;
+  background-color: #ddd;
+}
+
+footer p {
+  padding: 10px 10px;
+}
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/
